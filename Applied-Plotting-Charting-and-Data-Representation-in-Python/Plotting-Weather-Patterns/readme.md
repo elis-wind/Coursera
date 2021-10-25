@@ -1,0 +1,1 @@
+Plotting Temperature records in Ann Arbor, Michigan

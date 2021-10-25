@@ -1,0 +1,1 @@
+An implementation of a visualization of sample data as described in [Ferreria et al (2014)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Ferreira_Fisher_Sample_Oriented_Tasks.pdf)
