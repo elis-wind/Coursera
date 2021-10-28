@@ -6,4 +6,4 @@ This repository contains my projects for different Coursera programs:
 part of [*Applied Data Science with Python Specialization*](https://www.coursera.org/specializations/data-science-python)
 
 [*Natural Language Processing*](https://www.coursera.org/learn/language-processing?specialization=aml) - 
-part of [*Advanced Machine Learning Specialization *](https://www.coursera.org/specializations/aml)
+part of [*Advanced Machine Learning Specialization*](https://www.coursera.org/specializations/aml)
