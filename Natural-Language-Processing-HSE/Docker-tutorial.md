@@ -50,7 +50,7 @@ Note that we are using `-p 8080:8080` argument to set up port forwarding to make
 **Important:** Docker image only contains system dependencies for the project (e.g. TensorFlow, Starspace).
 All other project-related files (e.g. input data) need to be exposed to the container manually though [Docker volumes](https://docs.docker.com/storage/volumes/). To do this, we are mounting a directory from your machine within the container using `-v` option.
 
-On Linux and OSX, an example command looks like:
+On **Linux** and **OSX**, an example command looks like:
 ```sh
 docker run -it -p 8080:8080 --name coursera-aml-nlp -v $PWD:/root/coursera akashin/coursera-aml-nlp
 ```
